@@ -1,4 +1,4 @@
-# Using various machine learning algorithms for ock type pokemon prediction
+# Using various machine learning algorithms for rock type pokemon prediction
 
 ## In this notebook:
 - **About the dataset**
